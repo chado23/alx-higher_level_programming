@@ -1,1 +1,1 @@
-READ
+# JavaScript - Warm up
